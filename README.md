@@ -1,1 +1,1 @@
-# Custom Recovery files for the Realme XT (RMX1921)
+# Custom Recovery Files For Realme XT (RMX1921)
